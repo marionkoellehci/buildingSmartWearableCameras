@@ -4,4 +4,4 @@ This repository contains a template for building smart cameras using based on a 
 
 ![overview of a variety of smart cameras][logo]
 
-[logo]: https://github.com/marionkoellehci/buildingSmartWearableCameras/blob/master/images/overview.jpg
+[logo]: https://github.com/marionkoellehci/buildingSmartWearableCameras/blob/master/overview.jpg
